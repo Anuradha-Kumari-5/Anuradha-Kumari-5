@@ -5,8 +5,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence 
-
+🔭 I’m currently working on Unity engine and Game Devlopment<br>👯 I’m looking to collaborate on Game Devlopment <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Unity engine, Blender and Unreal engine 
 
 
 ## 🌐 Socials:
@@ -34,7 +33,7 @@
 <p align="center">
   
   
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/anuradha_kumari_5?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
 </p>
 
 ### 🏆 GitHub Trophies 
